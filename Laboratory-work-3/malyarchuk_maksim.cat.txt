@@ -1,2 +1,4 @@
-Malyarchuk Maksim	/c/Users/M/WebAR-MalM/Laboratory-work-3
-AI254	M
+Malyarchuk Maksim
+AI254
+/c/Users/M/WebAR-MalM/Laboratory-work-3
+M
